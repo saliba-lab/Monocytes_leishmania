@@ -2,13 +2,14 @@
 Repository under progress
 
 Update 16/06/23: Repository will be updated shortly after publication to include the download of the count matrix from GEO.
+Update 03/07/23: Link to download the count matrix has been updated. 
 
 
 This repository contains scripts for the scRNAseq analysis of monocytes infected by Leishmania
 
 
 ## Data Accessibility
-For now, the count matrix can be downloaded from the [Helmholtz Cloud](https://nubes.helmholtz-berlin.de/).
+For now, the count matrix can be downloaded from the [Helmholtz Cloud](https://syncandshare.desy.de/index.php/s/Rsz7wyHw8mYj8Xj).
 The count matrix should be manually download and place in the data folder of the repository.
 
 ## Repository Structure
